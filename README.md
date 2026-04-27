@@ -1,6 +1,20 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+ServiceNow+Dev;Open+to+Full-Time+%26+Freelance)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nitish2185&color=1D9E75&style=flat-square&label=Profile+Views)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish2185)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nns.nitish2185@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitish2185)
+
+</div>
+
+---
+
 # I'm Nitish Narayan Singh.
 
-A Full Stack Developer with real internship experience — not just side projects. I build end-to-end MERN applications and have worked professionally on ServiceNow platform development. I like shipping things that work, and I'm actively looking for remote roles and freelance work.
+A Full Stack Developer with real internship experience — not just side projects. I build end-to-end MERN applications and have worked professionally on ServiceNow platform development. Open to full-time roles (remote or onsite) and freelance contracts.
 
 ---
 
@@ -20,10 +34,34 @@ A Full Stack Developer with real internship experience — not just side project
 
 ### Tech Stack
 
-**Frontend** — React.js · React Native · Redux · Tailwind CSS · JavaScript (ES6+) · TypeScript  
-**Backend** — Node.js · Express.js · MongoDB · MySQL · REST APIs · JWT Auth  
-**ServiceNow** — ITSM · Glide API · Business Rules · Script Includes · REST Integrations  
-**Tools** — Git · Postman · VS Code · Appwrite
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitish2185&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish2185&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nitish2185&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -40,11 +78,6 @@ A Full Stack Developer with real internship experience — not just side project
 
 ### Currently
 
-Open to **remote full stack / frontend roles** and **freelance contracts** — available now.  
-B.Tech in Computer Science, IIMT College of Engineering (2021–2025) · CGPA 7.65
-
----
-
-### Reach me
-
-📧 nns.nitish2185@gmail.com · [LinkedIn](https://linkedin.com/in/nitish2185) · +91 84235 99961
+- Open to **full-time roles** — remote or onsite
+- Available for **freelance contracts**
+- B.Tech in Computer Science, IIMT College of Engineering (2021–2025) · CGPA 7.65
