@@ -63,6 +63,12 @@ A Full Stack Developer with real internship experience — not just side project
 
 </div>
 
+<div align="center">
+  
+![Snake](https://raw.githubusercontent.com/Nitish2185/Nitish2185/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ### Projects
