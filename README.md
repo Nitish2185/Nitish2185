@@ -1,89 +1,183 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+ServiceNow+Dev;Open+to+Full-Time+%26+Freelance)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D9E75,100:2C5364&height=200&section=header&text=Nitish%20Narayan%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Angular%20%7C%20Go%20%7C%20MERN&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nitish2185&color=1D9E75&style=flat-square&label=Profile+Views)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=1D9E75&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%2B+Go+%2B+PostgreSQL+in+production;MERN+Stack+%7C+ServiceNow+Developer;Building+a+multi-tenant+university+ERP;Open+to+Full-Time+%26+Freelance+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish2185)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nns.nitish2185@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitish2185)
+<br/>
+
+<a href="https://linkedin.com/in/nitish2185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nns.nitish2185@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-nitish2185s-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Nitish2185"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nitish2185&color=1D9E75&style=flat-square&label=Profile+Views" />
 
 </div>
 
 ---
 
-# I'm Nitish Narayan Singh.
+## 👋 About me
 
-A Full Stack Developer with real internship experience — not just side projects. I build end-to-end MERN applications and have worked professionally on ServiceNow platform development. Open to full-time roles (remote or onsite) and freelance contracts.
+```go
+type Developer struct {
+    Name       string
+    Role       string
+    Frontend   []string
+    Backend    []string
+    Databases  []string
+    Platforms  []string
+    LookingFor []string
+}
+
+var nitish = Developer{
+    Name:       "Nitish Narayan Singh",
+    Role:       "Full Stack Developer",
+    Frontend:   []string{"Angular", "React", "React Native", "TypeScript"},
+    Backend:    []string{"Go (Echo)", "Node.js (Express)", "Python (FastAPI)"},
+    Databases:  []string{"PostgreSQL", "MongoDB", "MySQL"},
+    Platforms:  []string{"ServiceNow"},
+    LookingFor: []string{"Full-time roles (remote / onsite)", "Freelance contracts"},
+}
+```
+
+I build products end to end: the database schema, the API, and the screen people actually click on. Lately that has meant a **multi-tenant academic ERP for higher-education institutions** built with **Angular 18, Go and PostgreSQL**, on top of the MERN and ServiceNow work below.
 
 ---
 
-### Experience
+## 🛠️ Tech stack
 
-**ServiceNow Developer Intern — Bangmetric LLC** *(Jul 2025 – Oct 2025)*
-- Built server-side logic using JavaScript and Glide APIs
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,html,css&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,sass&theme=dark" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
+
+<br/><br/>
+
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 What I'm building now
+
+**A multi-tenant academic ERP for higher education (IITs / NITs / universities)**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend (Go)**
+- Modular monolith on **Echo + GORM + pgx**, one **PostgreSQL** database per institute
+- Programme Management: degrees, programmes, disciplines, courses and term-wise curricula
+- Examination: cycles, sessions, slots and schedules wired to the curriculum
+- Evaluator workflow: role-scoped APIs so faculty only see and mark their own courses
+- JWT auth, tenant-aware middleware, soft deletes, **Swagger / OpenAPI** docs
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend (Angular 18)**
+- Standalone components, route-level providers and a repository pattern over a shared API client
+- Replaced hard-coded mock data across modules with live REST APIs
+- Role-based navigation and guards (admin, employee, evaluator)
+- Excel import / export of marks sheets with validation
+- RxJS-driven data loading with `forkJoin` / `switchMap`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+**ServiceNow Developer Intern — Bangmetric LLC** · *Jul 2025 – Oct 2025*
+- Built server-side logic with JavaScript and Glide APIs
 - Integrated REST APIs between ServiceNow and external systems
-- Worked on Incident, Problem & Change Management workflows
+- Worked on Incident, Problem and Change Management workflows
 
-**Full Stack Developer Intern — SoftApper Tech Solutions** *(Sep 2024 – Dec 2024)*
-- Built full-stack features with React, Node.js, Express & MongoDB
-- Designed RESTful APIs for auth, search, and filtering
+**Full Stack Developer Intern — SoftApper Tech Solutions** · *Sep 2024 – Dec 2024*
+- Built full-stack features with React, Node.js, Express and MongoDB
+- Designed RESTful APIs for auth, search and filtering
 - Implemented Express middleware and MongoDB schemas for validation
 
 ---
 
-### Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish2185&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish2185&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nitish2185&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![Snake](https://raw.githubusercontent.com/Nitish2185/Nitish2185/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-### Projects
+## 📂 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Voyager](https://github.com/Nitish2185/Voyager) | Travel platform with auth, booking & itinerary planning | React, Node, Express, MongoDB, Tailwind |
-| [Food Delivery App](https://github.com/Nitish2185) | User + admin platform with cart, orders & payment flows | React, Node, Express, MongoDB |
-| [Movie App](https://github.com/Nitish2185) | React Native mobile app with trending movies & Appwrite backend | React Native, Expo, NativeWind, Appwrite |
-| [JobPortal](https://github.com/Nitish2185/JobPortal) | Job board for seekers and employers with filtering | React, Express, Node, MongoDB |
+| ⭐ [**Voyager**](https://github.com/Nitish2185/Voyager) | Travel platform with auth, booking and itinerary planning | React · Node · Express · MongoDB · Tailwind |
+| [**HROne Assignment**](https://github.com/Nitish2185/HROne-assignment) | Employee attendance and analytics API | Python · FastAPI · MongoDB |
+| [**Food Delivery**](https://github.com/Nitish2185/Food-Delivery) | User + admin platform with cart, orders and payments | React · Node · Express · MongoDB |
+| [**Simplify Money**](https://github.com/Nitish2185/Simplify-Money-Project) | Mobile finance app | React Native · TypeScript |
+| [**JobPortal**](https://github.com/Nitish2185/JobPortal) | Job board for seekers and employers with role-based access | React · Node · Express · MongoDB |
+| [**WanderLust**](https://github.com/Nitish2185/Airbnb-Website-WanderLust-) | Airbnb-style stays search, filtering and booking | React · Redux · Node · MongoDB |
+| [**Portfolio**](https://portfolio-nitish2185s-projects.vercel.app) | My personal site | TypeScript · Vercel |
 
 ---
 
-### Currently
+## 📊 GitHub stats
 
-- Open to **full-time roles** — remote or onsite
-- Available for **freelance contracts**
-- B.Tech in Computer Science, IIMT College of Engineering (2021–2025) · CGPA 7.65
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nitish2185&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish2185&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nitish2185&theme=tokyonight&hide_border=true" /></a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Nitish2185/Nitish2185/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Tech, Computer Science** — IIMT College of Engineering · *2021 – 2025* · CGPA 7.65
+
+---
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1D9E75&center=true&vCenter=true&width=520&lines=Let's+ship+something+together+%F0%9F%9A%80;Thanks+for+stopping+by!" alt="Footer typing SVG" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:1D9E75,100:0F2027&height=120&section=footer&animation=twinkling" width="100%" />
+
+</div>
