@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D9E75,100:2C5364&height=200&section=header&text=Nitish%20Narayan%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Angular%20%7C%20Go%20%7C%20MERN&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=1D9E75&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%2B+Go+%2B+PostgreSQL+in+production;MERN+Stack+%7C+ServiceNow+Developer;Building+a+multi-tenant+university+ERP;Open+to+Full-Time+%26+Freelance+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=1D9E75&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%2B+Go+%2B+PostgreSQL;MERN+Stack+%7C+ServiceNow+Developer;Open+to+Full-Time+%26+Freelance+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@ var nitish = Developer{
 }
 ```
 
-I build products end to end: the database schema, the API, and the screen people actually click on. Lately that has meant a **multi-tenant academic ERP for higher-education institutions** built with **Angular 18, Go and PostgreSQL**, on top of the MERN and ServiceNow work below.
+I build products end to end: the database schema, the API, and the screen people actually click on — with **Angular, Go and PostgreSQL** as well as the **MERN** stack, plus ServiceNow platform development.
 
 ---
 
@@ -85,37 +85,6 @@ I build products end to end: the database schema, the API, and the screen people
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
 
 </div>
-
----
-
-## 🚀 What I'm building now
-
-**A multi-tenant academic ERP for higher education (IITs / NITs / universities)**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Backend (Go)**
-- Modular monolith on **Echo + GORM + pgx**, one **PostgreSQL** database per institute
-- Programme Management: degrees, programmes, disciplines, courses and term-wise curricula
-- Examination: cycles, sessions, slots and schedules wired to the curriculum
-- Evaluator workflow: role-scoped APIs so faculty only see and mark their own courses
-- JWT auth, tenant-aware middleware, soft deletes, **Swagger / OpenAPI** docs
-
-</td>
-<td width="50%" valign="top">
-
-**Frontend (Angular 18)**
-- Standalone components, route-level providers and a repository pattern over a shared API client
-- Replaced hard-coded mock data across modules with live REST APIs
-- Role-based navigation and guards (admin, employee, evaluator)
-- Excel import / export of marks sheets with validation
-- RxJS-driven data loading with `forkJoin` / `switchMap`
-
-</td>
-</tr>
-</table>
 
 ---
 
